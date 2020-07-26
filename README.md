@@ -1,4 +1,4 @@
-# Gdocs presence app frontend 
+# Gdocs presence app backend 
 
 The frontend of the gdocs presence app is built using react js.
 
