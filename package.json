@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "adorable-avatars": "^0.4.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "crypto-js": "^4.0.0",
